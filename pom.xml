@@ -68,9 +68,6 @@
                                     <type>jar</type>
                                 </artifactItem>
                             </artifactItems>
-                            <configuration>
-	                			<failOnMissingWebXml>false</failOnMissingWebXml>
-	            			</configuration>
                         </configuration>
                     </execution>
                 </executions>
